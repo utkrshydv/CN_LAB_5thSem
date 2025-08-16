@@ -22,7 +22,7 @@ int main(){
     printf("ch1      = %d\n", data.ch1 );
     printf("ch2[0]   = %d\n", data.ch2[0] );
     printf("ch2[1]   = %d\n", data.ch2[1] );
-    printf("ch3      = %d\n", data.ch3 );
+    printf("ch3      = %d\n", data.ch3 -);
 
       return 0;
 }
