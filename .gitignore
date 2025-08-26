@@ -1,5 +1,5 @@
 # Ignore smtp node_modules
-smtp/backend-smtp/node_modules/
+smtp-frontend/backend-smtp/node_modules/
 smtp/frontend-smtp/node_modules/
 # Ignore smtp .env file
-smtp/backend-smtp/.env
+smtp-frontend/backend-smtp/.env
